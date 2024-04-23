@@ -14,7 +14,7 @@ Ante este estado de situación, como consultora necesitamos realizar una serie d
 ¿Qué plataformas son las más elegidas? (nos sirve para utilizar su currícula como referencia)
 ¿Qué tipo de certificación son más elegidas?
 ¿Cuál es la situación laboral actual de las personas que eligen estudiar programación?
-¿Cuál es la tasa de insersión laboral luego de obtener las certificaciones?
+¿Cuál es la tasa de inserción laboral luego de obtener las certificaciones?
 ¿Cuántas certificaciones son necesarias para acceder al primer empleo?
 
 Con estos interrogantes damos pie al análisis de datos en Excel, partiendo de la limpieza, verificación y comprensión de los mismos para la posterior elaboración de las visualizaciones en PowerBI.
