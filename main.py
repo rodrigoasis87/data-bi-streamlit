@@ -31,7 +31,8 @@ url_informe_power_bi = "https://app.powerbi.com/view?r=eyJrIjoiNWIwMjI2NmMtZDk5Z
 
 st.markdown(page_bg_img, unsafe_allow_html=True)
 st.title("Dashboard!")
-st.markdown(f'<iframe width="800" height="600" src="{url_informe_power_bi}"></iframe>', unsafe_allow_html=True)
+st.components.html(f'<iframe width="800" height="600" src="{url_informe_power_bi}"></iframe>', height=800)
+#st.markdown(f'<iframe width="800" height="600" src="{url_informe_power_bi}"></iframe>', unsafe_allow_html=True)
 
 st.sidebar.title("Menú")
 st.sidebar.markdown("")
