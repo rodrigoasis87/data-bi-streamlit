@@ -6,7 +6,7 @@ st.title("Dashboard!")
 
 
 ir_dashboard = "Ir al Dashboard"
-url_dashboard = "https://jtmweah6cydnkwzrhhmxz8.streamlit.app/#dashboard/"
+url_dashboard = "https://jtmweah6cydnkwzrhhmxz8.streamlit.app/dashboard"
 
 
 
