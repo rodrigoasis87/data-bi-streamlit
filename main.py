@@ -8,7 +8,8 @@ st.title("Dashboard!")
 ir_dashboard = "Ir al Dashboard"
 url_dashboard = "https://jtmweah6cydnkwzrhhmxz8.streamlit.app/dashboard"
 
-st.write("""Dashboard web para la actualización curricular
+st.write("""# ¿Cómo pueden adaptarse las universidades al mercado IT?
+## Tablero interactivo para la toma de decisiones
 
 
 Desde la consultora **AVE** nos propusimos abordar una problemática actual determinada por los cambios frenéticos en los que nos encontramos envueltos como sociedad: el desarrollo tecnológico, la consecuente reconversión profesional y, sobre todo, el rol de la Universidad Tecnológica Nacional en este proceso.
@@ -28,6 +29,10 @@ Dichas métricas emergen de los siguientes interrogantes, elementales para orien
 
 Con estos interrogantes damos pie al análisis de datos en Excel, partiendo de la limpieza, verificación y comprensión de los mismos para la posterior elaboración de las visualizaciones en PowerBI.""")
 
+st.image("/src/joel-filipe-Wc8k-KryEPM-unsplash.jpg", width=200, caption="Descripción de la primera imagen")
+
+# Mostrar la segunda imagen con el mismo ancho
+st.image("/src/andre-benz-cXU6tNxhub0-unsplash.jpg", width=200, caption="Descripción de la segunda imagen")
 
 if st.button(ir_dashboard):
     # Redirigir al siguiente dashboard
