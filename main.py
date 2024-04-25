@@ -29,10 +29,10 @@ Dichas métricas emergen de los siguientes interrogantes, elementales para orien
 
 Con estos interrogantes damos pie al análisis de datos en Excel, partiendo de la limpieza, verificación y comprensión de los mismos para la posterior elaboración de las visualizaciones en PowerBI.""")
 
-st.image("joel-filipe-Wc8k-KryEPM-unsplash.jpg", width=200, caption="Descripción de la primera imagen")
+st.image("https://images.unsplash.com/photo-1493514789931-586cb221d7a7?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&dl=andre-benz-cXU6tNxhub0-unsplash.jpg", width=200, caption="Descripción de la primera imagen")
 
 # Mostrar la segunda imagen con el mismo ancho
-st.image("andre-benz-cXU6tNxhub0-unsplash.jpg", width=200, caption="Descripción de la segunda imagen")
+st.image("https://images.unsplash.com/photo-1483959651481-dc75b89291f1?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&dl=joel-filipe-Wc8k-KryEPM-unsplash.jpg", width=200, caption="Descripción de la segunda imagen")
 
 if st.button(ir_dashboard):
     # Redirigir al siguiente dashboard
